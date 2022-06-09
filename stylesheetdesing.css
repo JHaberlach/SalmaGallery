@@ -4,32 +4,27 @@ body {
     h1, footer {
         text-align: center;
         color: #032CA6;
-        float: right;
     }
     p{ 
         text-align: center;
         color: #032CA6;
-        float: right;
     }
     h2 {
         text-align: center;
         text-decoration: underline;
         color: #5670BF;
-        float: right;
+        float: left;
     }
     ul {
       text-align: center;
-      float: right;
     }
     div {
         padding-left: 70px;
         padding-right: 70px;
-        float: right;
     }
     footer>a, footer>a:visited {
         text-decoration: none;
         color: #032CA6;
-        float: right;
     }
 a {
     color: white;

@@ -13,7 +13,7 @@ body {
         text-align: center;
         text-decoration: underline;
         color: #5670BF;
-        float: left;
+        float: right;
     }
     ul {
       text-align: center;
@@ -95,4 +95,3 @@ a {
     .menu-bar__dropdown:hover .menu-bar__dropdown__content {
       display: block;
     }
-    
